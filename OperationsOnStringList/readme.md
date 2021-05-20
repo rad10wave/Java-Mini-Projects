@@ -1,0 +1,2 @@
+# Operations on String List #
+Write a Program toperform the basic operations like insert, delete, display and search in list. List contains String object items where these operations are to be performed
